@@ -1,0 +1,10 @@
+Thank you Rich for your patronage!
+
+Here is a list of all transactions you did today
+
+You have withdrawn $10.00 from your Checking account
+You have deposited $10.78 to your Savings account
+
+Current Balance
+Checking: $990.00
+Savings: $5010.78
